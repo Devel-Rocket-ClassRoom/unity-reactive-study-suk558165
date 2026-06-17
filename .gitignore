@@ -55,6 +55,9 @@ publish/
 .claude/
 CLAUDE.md
 
+# VS Code
+.vscode/
+
 # Build output
 *.apk
 *.aab
